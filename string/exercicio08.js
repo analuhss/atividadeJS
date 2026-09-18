@@ -1,3 +1,3 @@
-let maiuscula = "aeiou"
+let maiuscula = "aeiou";
 
-console.log(maiuscula.toUpperCase())
+console.log(maiuscula.toUpperCase());

@@ -1,7 +1,7 @@
 let nome = "Ana Luiza";
 
-let sobrenome = "Santos"
+let sobrenome = "Santos";
 
-const nomeCompleto = nome + " " + sobrenome
+const nomeCompleto = nome + " " + sobrenome;
 
-console.log(`Nome completo: ${nomeCompleto}`)
+console.log(`Nome completo: ${nomeCompleto}`);

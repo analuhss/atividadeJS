@@ -1,5 +1,5 @@
-const nome = "Ana Luiza"
+const nome = "Ana Luiza";
 
-const cidade = "Guarulhos"
+const cidade = "Guarulhos";
 
-console.log(`${nome}, você é da cidade ${cidade}`)
+console.log(`${nome}, você é da cidade ${cidade}`);

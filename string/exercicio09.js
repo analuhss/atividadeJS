@@ -1,3 +1,3 @@
-let minusculo = "AEIOU"
+let minusculo = "AEIOU";
 
-console.log(minusculo.toUpperCase())
+console.log(minusculo.toUpperCase());

@@ -6,12 +6,12 @@ console.log(nome + " " +  sobrenome);
 
 // VERSÃO ALTERNATIVA
 
-let Nome = "Ana Luiza"
+let Nome = "Ana Luiza";
 
-let Sobrenome = "Santos"
+let Sobrenome = "Santos";
 
-const nomeCompleto = Nome + " " + Sobrenome
+const nomeCompleto = Nome + " " + Sobrenome;
 
 console.log(nomeCompleto);
 
-console.log(`Bem vinda ${nomeCompleto}`)
+console.log(`Bem vinda ${nomeCompleto}`);

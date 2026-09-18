@@ -1,3 +1,3 @@
-let tamanho = "abcdefghijklmnopqrstuvwxyz"
+let tamanho = "abcdefghijklmnopqrstuvwxyz";
 
-console.log(tamanho.length)
+console.log(tamanho.length);
